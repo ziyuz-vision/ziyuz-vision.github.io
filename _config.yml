@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Meet Ziyu"
+title                    : "Ziyu Zhao/Meet Ziyu"
 title_separator          : "-"
 name                     : &name "Ziyu Zhao"
 description              : &description "personal description"
