@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-![Illustration of combining vision and language modalities](/images/avatar.jpg){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/AI_segmentation.png){: .align-right width="200px"}
 👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
 
 🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
