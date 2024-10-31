@@ -2,7 +2,7 @@
 title: "Few-Shot 3D Point Cloud Semantic Segmentation via Stratified Class-Specific Attention Based Transformer Network"
 collection: publications
 category: manuscripts
-permalink: /_publication/2015-10-01-paper-title-number-3
+#permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2023-10-01
 venue: 'AAAI, 2022'

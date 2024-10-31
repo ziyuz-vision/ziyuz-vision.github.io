@@ -2,7 +2,7 @@
 title: "“Leveraging Adaptive Implicit presentation Mapping for Ultra High-Resolution Image Segmentation"
 collection: publications
 category: conferences
-permalink: /_publication/2024-02-17-paper-title-number-4
+#permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2022-10-01
 venue: 'arXiv, 2024'
