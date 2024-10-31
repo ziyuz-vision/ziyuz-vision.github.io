@@ -12,7 +12,7 @@ title                    : "Meet Ziyu"
 title_separator          : "-"
 name                     : &name "Ziyu Zhao"
 description              : &description "personal description"
-url                      : https://VorticaZ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ziyuz-vision.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "VorticaZ/VorticaZ.github.io"
 
