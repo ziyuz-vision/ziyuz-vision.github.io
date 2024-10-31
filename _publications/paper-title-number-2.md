@@ -1,7 +1,7 @@
 ---
 title: "Crossmodal Few-shot 3D Point Cloud Semantic Segmentation via View Synthesis"
 collection: publications
-#category: manuscripts
+category: conferences
 permalink: /publication/paper-title-number-2
 excerpt: 'This paper introduces a cross-modal few-shot approach for 3D point cloud segmentation, using multi-view synthesis with color and depth inpainting to address occlusions and reduce reliance on 3D annotations. A Co-embedding Network aligns features between synthesized views and original 3D data, while a weighted prototype network enhances segmentation performance.'
 date: 2024-10-01

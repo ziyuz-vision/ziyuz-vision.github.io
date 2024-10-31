@@ -1,7 +1,7 @@
 ---
 title: "Few-Shot 3D Point Cloud Semantic Segmentation via Stratified Class-Specific Attention Based Transformer Network"
 collection: publications
-#category: manuscripts
+category: conferences
 permalink: /publication/paper-title-number-3
 excerpt: 'This paper presents a multi-layer transformer network for few-shot 3D point cloud semantic segmentation, addressing limitations in computational complexity and fine-grained relationship learning in existing methods. By aggregating query point cloud features with class-specific support features at multiple scales and avoiding pooling, our approach fully utilizes pixel-level support features.'
 date: 2023-10-01
