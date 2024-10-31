@@ -1,5 +1,5 @@
 ---
-title: "Leveraging Adaptive Implicit presentation Mapping for Ultra High-Resolution Image Segmentation"
+title: "Leveraging Adaptive Implicit Presentation Mapping for Ultra High-Resolution Image Segmentation"
 collection: publications
 category: conferences
 permalink: /publication/Leveraging-Adaptive-Implicit-presentation-Mapping-for-Ultra-High-Resolution-Image-Segmentation
