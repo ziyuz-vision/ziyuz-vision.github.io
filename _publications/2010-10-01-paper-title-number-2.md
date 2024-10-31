@@ -2,7 +2,7 @@
 title: "Crossmodal Few-shot 3D Point Cloud Semantic Segmentation via View Synthesis"
 collection: publications
 category: manuscripts
-#permalink: /publication/Crossmodal-Few-shot-3D-Point-Cloud-Semantic-Segmentation-via-View-Synthesis
+permalink: /publication/2010-10-01-paper-title-number-2
 #excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-10-01
 venue: 'ACM Multimedia, 2024'
