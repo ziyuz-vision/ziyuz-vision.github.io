@@ -5,6 +5,7 @@ source "https://rubygems.org"
 # gem 'wdm', '~> 0.1.1', :install_if => Gem.win_platform?
 
 gem 'webrick'
+gem 'jekyll-sitemap'
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem 'tzinfo', '>= 1', '< 3'
