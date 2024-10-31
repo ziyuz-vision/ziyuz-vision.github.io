@@ -9,7 +9,7 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/AI_segmentation.png){: .align-right width="200px"}
-👨🏻‍💻 Currently I'm a 4th year Ph.D student at UofSc.
+👨🏻‍💻 Currently I'm a 4th year Ph.D student at University of South Carolina under Prof. [Song Wang](https://www.cse.sc.edu/~songwang/).
 
 🔬 My research focuses on computer vision, specifically 2D/3D point cloud segmentation, image restoration, and 3D reconstruction.
 
@@ -17,4 +17,3 @@ redirect_from:
 
 📽️ I am also interested in assisting others on their path in the world of Deep/Machine Learning and academia.
 
-比啊
