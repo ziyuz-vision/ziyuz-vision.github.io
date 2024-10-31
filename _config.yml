@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ziyu's Homepage "
+title                    : "Meet Ziyu"
 title_separator          : "-"
 name                     : &name "Ziyu Zhao"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "avatar.jpg"
   name             : "Ziyu Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Segmentation, Multi-Modal Learning"
+  bio              : "Computer vision, Multi-Modal Learning"
   location         : "South Carolina, USA"
   employer         : "University of South Carolina"
   uri              : # URL
@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -81,7 +81,7 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: acmmmmm
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
