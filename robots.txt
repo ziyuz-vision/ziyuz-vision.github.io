@@ -1,0 +1,16 @@
+# robots.txt for https://ziyuz-vision.github.io/
+
+# Global settings
+User-agent: *
+Allow: /
+Allow: /sitemap.xml
+
+# Allow search engines to access main content
+Allow: /publications/
+Allow: /teaching/
+Allow: /portfolio/
+
+# Block specific directories if needed
+Disallow: /private/
+Disallow: /temp/
+Disallow: /drafts/
