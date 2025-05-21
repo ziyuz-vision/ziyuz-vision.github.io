@@ -7,7 +7,7 @@ excerpt: 'This paper introduces a cross-modal few-shot approach for 3D point clo
 date: 2022-10-19
 venue: 'ACM Multimedia'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://www.cse.sc.edu/~songwang/document/acmmm22c.pdf'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3503161.3548251'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
